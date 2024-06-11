@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/My-personal-website/static/css/main.5fd5600b.css",
-    "main.js": "/My-personal-website/static/js/main.056c5a60.js",
+    "main.js": "/My-personal-website/static/js/main.f95f147c.js",
     "static/media/bhojraj2.jpg": "/My-personal-website/static/media/bhojraj2.7d10c102c431d44aab5d.jpg",
     "static/media/nature.jpg": "/My-personal-website/static/media/nature.5b0027fcc0cc00c24a49.jpg",
     "index.html": "/My-personal-website/index.html",
     "main.5fd5600b.css.map": "/My-personal-website/static/css/main.5fd5600b.css.map",
-    "main.056c5a60.js.map": "/My-personal-website/static/js/main.056c5a60.js.map"
+    "main.f95f147c.js.map": "/My-personal-website/static/js/main.f95f147c.js.map"
   },
   "entrypoints": [
     "static/css/main.5fd5600b.css",
-    "static/js/main.056c5a60.js"
+    "static/js/main.f95f147c.js"
   ]
 }
